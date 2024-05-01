@@ -1,0 +1,14 @@
+*{
+    padding:0px;
+    margin: 0px;
+    
+}
+body{
+    background-color: black;
+}
+
+#base{
+    width: 100%;
+    height:fit-content;
+    
+}
